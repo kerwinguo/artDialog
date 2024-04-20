@@ -27,6 +27,9 @@ artDialog v6 —— 经典的网页对话框组件，内外皆用心雕琢。
 
 6.0.1
 
+7.0.2
+add node 16.0.1
+
 1. 进一步完善焦点管理，避免抢夺开发者自己设置的焦点[#67](https://github.com/aui/artDialog/issues/67)
 2. 修复对话框内容使用 html5 data-id 属性冲突的问题[#78](https://github.com/aui/artDialog/issues/78)
 3. 改善 Esc 快捷键与 cancel 的问题[#36](https://github.com/aui/artDialog/issues/36)
